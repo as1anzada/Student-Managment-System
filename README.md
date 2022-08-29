@@ -5,7 +5,6 @@
 <h3><b>#Third is a School Managment system calculator!</b></h3>
 
 <h1 align="center">Hi 👋, I'm Aslan Aslanzada</h1>
-<h3 align="center">FullStack developer from Azerbaijan</h3>
 
 <img src="https://github.com/aslancoder/aslancoder/blob/main/Animation.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslancoder&label=Profile%20views&color=0e75b6&style=flat" alt="aslancoder" /> </p>
