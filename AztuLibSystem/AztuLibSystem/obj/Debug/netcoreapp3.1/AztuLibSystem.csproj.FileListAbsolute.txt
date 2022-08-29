@@ -1,0 +1,289 @@
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.exe
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.deps.json
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.runtimeconfig.json
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.runtimeconfig.dev.json
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.pdb
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.Views.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.Views.pdb
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.csproj.AssemblyReference.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.AssemblyInfoInputs.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.AssemblyInfo.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.csproj.CoreCompileInputs.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorAssemblyInfo.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorAssemblyInfo.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\staticwebassets\AztuLibSystem.StaticWebAssets.Manifest.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\staticwebassets\AztuLibSystem.StaticWebAssets.xml
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\AztuLibSystem.styles.css
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.TagHelpers.input.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.TagHelpers.output.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorCoreGenerate.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorTargetAssemblyInfo.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorTargetAssemblyInfo.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.Views.pdb
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.csproj.CopyComplete
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.dll
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.pdb
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.genruntimeconfig.cache
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\products\Default.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\_ViewImports.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\_ViewStart.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Index.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Detail.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Delete.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Create.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Update.cshtml.g.cs
+C:\Users\aslan\source\repos\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.exe
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.deps.json
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.runtimeconfig.json
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.runtimeconfig.dev.json
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.pdb
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.Views.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\AztuLibSystem.Views.pdb
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.csproj.AssemblyReference.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.AssemblyInfoInputs.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.AssemblyInfo.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.csproj.CoreCompileInputs.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorAssemblyInfo.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorAssemblyInfo.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\staticwebassets\AztuLibSystem.StaticWebAssets.Manifest.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\staticwebassets\AztuLibSystem.StaticWebAssets.xml
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\AztuLibSystem.styles.css
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.TagHelpers.input.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.TagHelpers.output.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorCoreGenerate.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Create.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Delete.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Detail.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Index.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Category\Update.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\_ViewImports.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\_ViewStart.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\products\Default.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorTargetAssemblyInfo.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.RazorTargetAssemblyInfo.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.Views.pdb
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.csproj.CopyComplete
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.dll
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.pdb
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\AztuLibSystem.genruntimeconfig.cache
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Slider\Index.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Slider\Create.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Product\Index.cshtml.g.cs
+C:\Users\aslan\Desktop\Final Main\AztuLibSystem\AztuLibSystem\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Product\Create.cshtml.g.cs

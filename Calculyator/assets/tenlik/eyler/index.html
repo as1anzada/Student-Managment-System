@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<body>
+
+<div class="container">
+	<h1>Diferensial tənliklər həlli. Eyler,Runqe Kutta</h1>
+
+	<div class="program left">
+		<select name="" id="de_method" class="form-control">
+		     <option value="1">Eyler Metodu</option>
+		     <option value="2">Eyler Modifikasiya Methodu</option>
+		     <option value="3">Runqe Kutta Methodu</option>
+		</select>
+
+		<div class="inputs">
+			<label>Y'</label>
+	 		<input id="mainEquation" class="form-control" type="text" value="4*x*y/2+x*x"/>
+	 	</div>
+	 	<div class="inputs">
+	 		<label>Y(0)</label>
+	 		<input id="yzero" type="text" class="form-control" value="1"/>
+	 	</div>
+	 	<div class="inputs">
+	 		<label>X(0)</label>
+	 		<input id="xzero" type="text" class="form-control" value="0"/>
+ 		</div>
+
+	 	<div class="inputs">
+	 		<label>X son dəyəri </label>
+	 		<input id="final_valueX" type="text" class="form-control" value="0.1"/>
+ 		</div>
+
+ 		<div class="inputs">
+	 		<label>h</label>
+	 		<input id="h" type="text"  class="form-control" value="0.3"/>
+ 		</div>
+
+ 		<button id="calculate" type="button" value="calculate">Hesabla</button>
+
+	</div>
+
+	<div class="result left">
+		<pre>
+			<code>
+				<table>
+				 <thead>
+				   <tr>
+					   <th>n</th>
+					   <th>Xn</th>
+					   <th>Yn</th>
+			     </tr>
+				 </thead>
+				 <tbody id="tableBody">
+
+				 </tbody>
+
+			 	</table>
+			</code>
+		</pre>
+
+	</div>
+
+</div>
+
+<footer>
+	<p class="clear" style="text-align:center"> <b>Made by:Aslan Coder</b> </p>
+</footer>
+
+<script type="text/javascript" src="script.js"></script>
+<a href="../../calculindex/calculindex.html"><input type="button" name="b7" value="Ana Seyfe" onClick="calcNumbers(b7.value)"></a><br> <br>
+</body>
+</html>
