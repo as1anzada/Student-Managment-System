@@ -2,9 +2,9 @@
 # Here Have 3 project!
 <h3><b>#Firts is School Managment System!</b><br></h3>
 <h3><b>#Second is a School Managment system library!</b></h3>
-<h3><b>#Third is a School Managment system calculator!</b></h3>
+<h3><b>#Third is a School Managment system calculator!</b></h3>1
 
-<h1 align="center">Hi 👋, I'm Aslan Aslanzada</h1>.
+<h1 align="center">Hi 👋, I'm Aslan Aslanzada</h1>
 
 <img src="https://github.com/aslancoder/aslancoder/blob/main/Animation.gif" >
 
