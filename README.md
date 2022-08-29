@@ -1,4 +1,2 @@
-# 
-1
-1
-1
+# This Project Compilitly Belong To Student Managment system
+
